@@ -725,6 +725,3 @@ For issues, feature requests, or contributions:
 3. Follow the established code style and documentation standards
 4. Include unit tests for new functionality
 
-**Author**: MiniMax Agent  
-**Version**: 1.0.0  
-**Last Updated**: December 2025
