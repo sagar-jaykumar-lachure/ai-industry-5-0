@@ -455,7 +455,3 @@ These projects demonstrate Industry 5.0 principles:
 These projects demonstrate Industry 5.0 principles: human augmentation, sustainability metrics, and resilient operations. Each includes production-ready code with explainable outputs suitable for research proposals or industrial pilots.
 
 ---
-
-**Author**: MiniMax Agent  
-**Date**: December 2025  
-**Projects**: 10 Industry 5.0 Python Implementations
