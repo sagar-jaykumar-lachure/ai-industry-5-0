@@ -4,8 +4,7 @@ Data Loading Utilities
 
 Utility functions for loading and preprocessing data across all Industry 5.0 modules.
 
-Author: MiniMax Agent
-Date: December 2025
+
 """
 
 import pandas as pd
