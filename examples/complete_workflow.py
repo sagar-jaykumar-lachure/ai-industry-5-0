@@ -4,8 +4,7 @@ Complete Industry 5.0 Workflow Example
 
 Demonstrates a complete workflow using all Industry 5.0 modules together.
 
-Author: MiniMax Agent
-Date: December 2025
+
 """
 
 import sys
