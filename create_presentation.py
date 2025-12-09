@@ -4,8 +4,7 @@ PowerPoint Presentation Generator
 
 Creates a comprehensive PowerPoint presentation for AI Industry 5.0.
 
-Author: MiniMax Agent
-Date: December 2025
+
 """
 
 from pptx import Presentation
