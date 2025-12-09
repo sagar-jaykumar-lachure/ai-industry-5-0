@@ -5,8 +5,6 @@ Predictive Maintenance Dashboard
 Real-time equipment health monitoring with human override alerts.
 Implements Random Forest regression for Remaining Useful Life (RUL) prediction.
 
-Author: MiniMax Agent
-Date: December 2025
 """
 
 import pandas as pd
