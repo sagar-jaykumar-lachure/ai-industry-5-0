@@ -13,8 +13,7 @@ Usage:
     python run_demo.py --energy           # Run only energy optimizer
     python run_demo.py --data             # Run only data generation
 
-Author: MiniMax Agent
-Date: December 2025
+
 """
 
 import sys
