@@ -5,8 +5,7 @@ Human-Cobot Collaboration Optimizer
 AI-driven task allocation between humans and collaborative robots using
 Gaussian Process Regression and Reinforcement Learning principles.
 
-Author: MiniMax Agent
-Date: December 2025
+
 """
 
 import pandas as pd
