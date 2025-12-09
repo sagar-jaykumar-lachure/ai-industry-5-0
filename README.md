@@ -125,7 +125,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions and support, please open an issue or contact the maintainers.
 
 ---
-
-**Author**: MiniMax Agent  
-**Version**: 1.0.0  
-**Last Updated**: December 2025
