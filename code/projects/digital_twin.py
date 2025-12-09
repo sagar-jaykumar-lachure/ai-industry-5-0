@@ -5,8 +5,7 @@ Digital Twin for Manufacturing Line
 Production line simulation with real-time anomaly detection using
 Isolation Forest and statistical process control.
 
-Author: MiniMax Agent
-Date: December 2025
+
 """
 
 import pandas as pd
