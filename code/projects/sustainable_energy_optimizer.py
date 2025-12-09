@@ -5,8 +5,7 @@ Sustainable Energy Optimizer
 AI-driven energy consumption minimization in smart factories using
 predictive analytics and optimization algorithms.
 
-Author: MiniMax Agent
-Date: December 2025
+
 """
 
 import pandas as pd
